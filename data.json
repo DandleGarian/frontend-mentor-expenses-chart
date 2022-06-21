@@ -1,0 +1,37 @@
+[
+  {
+    "day": "mon",
+    "amount": 17.45,
+    "greatest": false
+  },
+  {
+    "day": "tue",
+    "amount": 34.91,
+    "greatest": false
+  },
+  {
+    "day": "wed",
+    "amount": 52.36,
+    "greatest": true
+  },
+  {
+    "day": "thu",
+    "amount": 31.07,
+    "greatest": false
+  },
+  {
+    "day": "fri",
+    "amount": 23.39,
+    "greatest": false
+  },
+  {
+    "day": "sat",
+    "amount": 43.28,
+    "greatest": false
+  },
+  {
+    "day": "sun",
+    "amount": 25.48,
+    "greatest": false
+  }
+]
